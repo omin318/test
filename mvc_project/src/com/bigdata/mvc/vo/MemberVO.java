@@ -2,7 +2,7 @@ package com.bigdata.mvc.vo;
 
 import java.util.Date;
 
-public class MemberVO {
+public class MemberVO {//
     private String id;
 	private String pwd;
 	private String email;
