@@ -1,11 +1,3 @@
-
-
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>KITRI소식지</title>
-
-
-
 <img src="http://www.kitri.re.kr/newsletter/kitri_news_10_20201105.jpg" width="690" height="1919" usemap="#MapMap" longdesc="http://www.kitri.re.kr/newsletter/kitri_news_09_event_0928.jpg" border="0">
 <map id="MapMap" name="MapMap">
 	
